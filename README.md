@@ -998,7 +998,7 @@ Ideas that are always welcome:
 
 This project is licensed under the **MIT License** — you are free to use, modify, distribute, and build on it commercially or privately.
 
-See [LICENSE](LICENSE) for full terms.
+See [license](license) for full terms.
 
 <br />
 
